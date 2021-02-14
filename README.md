@@ -1,24 +1,11 @@
-# platzi-exchange
+# Platzi Exchange
 
-## Project setup
-```
-npm install
-```
+Proyecto del [Curso Básico de Vue.js 2](https://platzi.com/clases/vuejs2/) de Platzi
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<p align='center'>
+  <img src='https://static.platzi.com/media/achievements/badge-basico-vue-js-a86950de-232c-4ebe-b635-a0bba62f87ae.png' alt='logo_curso_basico_vuejs_2_platzi'>
+</p>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Ver página: https://criniguez-platzi-exchange.netlify.app/
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Mis apuntes: https://www.notion.so/Curso-B-sico-de-Vue-js-27994d81253c43639797099173f74780

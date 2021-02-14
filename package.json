@@ -29,5 +29,17 @@
     "eslint-plugin-vue": "^6.2.2",
     "prettier": "^1.19.1",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "description": "Proyecto del Curso Básico de Vue.js 2 de Platzi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianiniguez/curso_basico_vuejs.git"
+  },
+  "keywords": [],
+  "author": "cristianiniguez <felizpc1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianiniguez/curso_basico_vuejs/issues"
+  },
+  "homepage": "https://github.com/cristianiniguez/curso_basico_vuejs#readme"
 }
